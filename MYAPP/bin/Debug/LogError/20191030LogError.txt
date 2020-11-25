@@ -1,0 +1,15 @@
+30/10/2019 08:40:30   Incorrect syntax near 'admin'. - PC177141:10.80.23.163-FormMain-Admin 
+30/10/2019 08:40:32   Incorrect syntax near 'getDataSet'. - PC177141:10.80.23.163-FormMain-Admin 
+30/10/2019 08:40:32   Incorrect syntax near 'ExecuteQuery'. - PC177141:10.80.23.163-FormMain-Admin 
+30/10/2019 08:40:33   Incorrect syntax near 'ExecuteQuery'. - PC177141:10.80.23.163-FormMain-Admin 
+30/10/2019 08:40:48   Incorrect syntax near 'admin'. - PC177141:10.80.23.163-FormMain-Admin 
+30/10/2019 08:41:09   Incorrect syntax near 'Login'. - PC177141:10.80.23.163-FormMain-Admin 
+30/10/2019 08:41:09   Incorrect syntax near 'ExecuteQuery'. - PC177141:10.80.23.163-FormMain-Admin 
+30/10/2019 08:41:10   Incorrect syntax near 'ExecuteQuery'. - PC177141:10.80.23.163-FormMain-Admin 
+30/10/2019 08:41:10   Incorrect syntax near 'ExecuteQuery'. - PC177141:10.80.23.163-FormMain-Admin 
+30/10/2019 08:41:10   Incorrect syntax near 'ExecuteQuery'. - PC177141:10.80.23.163-FormMain-Admin 
+30/10/2019 08:41:10   Incorrect syntax near 'ExecuteQuery'. - PC177141:10.80.23.163-FormMain-Admin 
+30/10/2019 08:45:26   Incorrect syntax near ';'. - PC177141:10.80.23.163-FormUser-Admin 
+30/10/2019 08:45:51   Incorrect syntax near ';'. - PC177141:10.80.23.163-FormUser-Admin 
+30/10/2019 12:58:48   Incorrect syntax near '202'.
+Unclosed quotation mark after the character string ''. - PC177141:10.80.23.163-FormMain-Admin 

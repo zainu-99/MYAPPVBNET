@@ -1,0 +1,630 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1CE20308-DCDF-4AF6-A2BC-4776BDE4977F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>MYAPPVB.My.MyApplication</StartupObject>
+    <RootNamespace>MYAPPVB</RootNamespace>
+    <AssemblyName>MYAPPVB</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>MYAPPVB.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>MYAPPVB.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AdvancedDataGridView, Version=1.1.23503.5, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\DG.AdvancedDataGridView.1.1.23503.5\lib\net40\AdvancedDataGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="ClosedXML">
+      <HintPath>..\..\InnerTube\Inner_TubeV2\Barcode_Tube\bin\Debug\ClosedXML.dll</HintPath>
+    </Reference>
+    <Reference Include="FormDashboardVBNET">
+      <HintPath>..\..\FormDashboardVBNET\FormDashboardVBNET\bin\Debug\FormDashboardVBNET.dll</HintPath>
+    </Reference>
+    <Reference Include="Jacksonsoft.CustomTabControl, Version=1.0.1.5, Culture=neutral, PublicKeyToken=53c237210c7e462d, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\MISCA\MISCA\bin\Debug\Jacksonsoft.CustomTabControl.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SQLite, Version=1.0.112.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Account\FormAccount.Designer.vb">
+      <DependentUpon>FormAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Account\FormAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Chat\EmojiRichText.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Chat\FormChatting.Designer.vb">
+      <DependentUpon>FormChatting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Chat\FormChatting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chat\Model\MessageData\ActionMessage.vb" />
+    <Compile Include="Chat\Model\MessageData\ChatMessage.vb" />
+    <Compile Include="Chat\Model\TcpData.vb" />
+    <Compile Include="Chat\Model\MessageData\UserConnected.vb" />
+    <Compile Include="Chat\UserControlMyFileAttach.designer.vb">
+      <DependentUpon>UserControlMyFileAttach.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Chat\UserControlMyFileAttach.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Chat\UserControlMyMessage.designer.vb">
+      <DependentUpon>UserControlMyMessage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Chat\UserControlMyMessage.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Chat\UserControlMyPicture.designer.vb">
+      <DependentUpon>UserControlMyPicture.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Chat\UserControlMyPicture.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Chat\UserControlPartnerFileAttach.designer.vb">
+      <DependentUpon>UserControlPartnerFileAttach.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Chat\UserControlPartnerFileAttach.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Chat\UserControlPartnerMessage.designer.vb">
+      <DependentUpon>UserControlPartnerMessage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Chat\UserControlPartnerMessage.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Chat\UserControlPartnerPicture.designer.vb">
+      <DependentUpon>UserControlPartnerPicture.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Chat\UserControlPartnerPicture.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Chat\UserControlReadStatus.Designer.vb">
+      <DependentUpon>UserControlReadStatus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Chat\UserControlReadStatus.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Helper\DgvToExcel.vb" />
+    <Compile Include="Helper\MyAppHelper.vb" />
+    <Compile Include="UtilsForm\FormLoading.Designer.vb">
+      <DependentUpon>FormLoading.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UtilsForm\FormLoading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSplashScreen.Designer.vb">
+      <DependentUpon>FormSplashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormSplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UtilsForm\FormToast.Designer.vb">
+      <DependentUpon>FormToast.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UtilsForm\FormToast.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Helper\AuthHelper.vb" />
+    <Compile Include="Helper\ColorLibrary.vb" />
+    <Compile Include="Helper\DesignColorReset.vb" />
+    <Compile Include="Helper\DesignColor.vb" />
+    <Compile Include="Helper\GetComputerInfo.vb" />
+    <Compile Include="Helper\JsonHelper.vb" />
+    <Compile Include="Helper\LogApp.vb" />
+    <Compile Include="Helper\LogError.vb" />
+    <Compile Include="Helper\DgvRowToString.vb" />
+    <Compile Include="Helper\ReplaceQuote.vb" />
+    <Compile Include="Helper\SqliteService.vb" />
+    <Compile Include="Helper\TcpHelper.vb" />
+    <Compile Include="Log\FormLog.Designer.vb">
+      <DependentUpon>FormLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Log\FormLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Helper\ModuleUtils.vb" />
+    <Compile Include="ErrorReport\FormErrorReport.Designer.vb">
+      <DependentUpon>FormErrorReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ErrorReport\FormErrorReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setting\FormUI.Designer.vb">
+      <DependentUpon>FormUI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Setting\FormUI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master Data\Group\FormGroup.Designer.vb">
+      <DependentUpon>FormGroup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master Data\Group\FormGroup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sistem Admin\Group\FormGroupLevel.Designer.vb">
+      <DependentUpon>FormGroupLevel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sistem Admin\Group\FormGroupLevel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master Data\Menu\FormMenuApp.Designer.vb">
+      <DependentUpon>FormMenuApp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master Data\Menu\FormMenuApp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master Data\Popup\FormUserDataPopUp.Designer.vb">
+      <DependentUpon>FormUserDataPopUp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master Data\Popup\FormUserDataPopUp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sistem Admin\Group\FormRoleGroup.Designer.vb">
+      <DependentUpon>FormRoleGroup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sistem Admin\Group\FormRoleGroup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sistem Admin\User\FormUser.Designer.vb">
+      <DependentUpon>FormUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sistem Admin\User\FormUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.vb">
+      <DependentUpon>FormLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.vb">
+      <DependentUpon>FormMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master Data\Role\FormRole.Designer.vb">
+      <DependentUpon>FormRole.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master Data\Role\FormRole.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sistem Admin\User\FormUserGroup.Designer.vb">
+      <DependentUpon>FormUserGroup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sistem Admin\User\FormUserGroup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sistem Admin\Access\FormUserRole.Designer.vb">
+      <DependentUpon>FormUserRole.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sistem Admin\Access\FormUserRole.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Helper\SqlService.vb" />
+    <Compile Include="Template\FormTemplate.Designer.vb">
+      <DependentUpon>FormTemplate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Template\FormTemplate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Account\FormAccount.resx">
+      <DependentUpon>FormAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chat\UserControlMyFileAttach.resx">
+      <DependentUpon>UserControlMyFileAttach.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chat\UserControlMyMessage.resx">
+      <DependentUpon>UserControlMyMessage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chat\UserControlMyPicture.resx">
+      <DependentUpon>UserControlMyPicture.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chat\UserControlPartnerFileAttach.resx">
+      <DependentUpon>UserControlPartnerFileAttach.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chat\UserControlPartnerMessage.resx">
+      <DependentUpon>UserControlPartnerMessage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chat\UserControlPartnerPicture.resx">
+      <DependentUpon>UserControlPartnerPicture.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chat\UserControlReadStatus.resx">
+      <DependentUpon>UserControlReadStatus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ErrorReport\FormErrorReport.resx">
+      <DependentUpon>FormErrorReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chat\FormChatting.resx">
+      <DependentUpon>FormChatting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UtilsForm\FormLoading.resx">
+      <DependentUpon>FormLoading.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSplashScreen.resx">
+      <DependentUpon>FormSplashScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UtilsForm\FormToast.resx">
+      <DependentUpon>FormToast.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Log\FormLog.resx">
+      <DependentUpon>FormLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setting\FormUI.resx">
+      <DependentUpon>FormUI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master Data\Group\FormGroup.resx">
+      <DependentUpon>FormGroup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sistem Admin\Group\FormGroupLevel.resx">
+      <DependentUpon>FormGroupLevel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master Data\Menu\FormMenuApp.resx">
+      <DependentUpon>FormMenuApp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master Data\Popup\FormUserDataPopUp.resx">
+      <DependentUpon>FormUserDataPopUp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master Data\Role\FormRole.resx">
+      <DependentUpon>FormRole.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sistem Admin\Group\FormRoleGroup.resx">
+      <DependentUpon>FormRoleGroup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sistem Admin\User\FormUser.resx">
+      <DependentUpon>FormUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sistem Admin\User\FormUserGroup.resx">
+      <DependentUpon>FormUserGroup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sistem Admin\Access\FormUserRole.resx">
+      <DependentUpon>FormUserRole.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Template\FormTemplate.resx">
+      <DependentUpon>FormTemplate.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\auth.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\master.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notif.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userid1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\laporan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MAXXIS-LOGO-RGB-01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MAXXISS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_log.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\th %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21014-full_solid-color-wallpaper-hd-for-android-apk-download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0-2844_1920x1080-hd-wallpapers-for-windows-unique-hd-wallpapers.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\source.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading-animation1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconmenu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sgnal_no.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\signal_hight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\signal_low.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\counter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\date.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot %2872%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\username.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimizeform.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closeform.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_menu.png" />
+    <None Include="Resources\ic_excel.png" />
+    <None Include="Resources\connect.png" />
+    <None Include="Resources\help.png" />
+    <None Include="Resources\ic_eyes_open_white.png" />
+    <None Include="Resources\ic_eyes_close_white.png" />
+    <None Include="Resources\ic_attach.png" />
+    <None Include="Resources\ic_message.png" />
+    <None Include="bin\Debug\Newtonsoft.Json.dll" />
+    <None Include="Resources\send_button.png" />
+    <None Include="Resources\box-chat21.png" />
+    <None Include="Resources\box-chat.png" />
+    <None Include="Resources\box-chat2.png" />
+    <None Include="Resources\pattern.jpg" />
+    <None Include="Resources\button_send.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emoticon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\attach_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\not-found.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MYAPP.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MYAPP_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>MYAPP.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="..\packages\System.Data.SQLite.Core.1.0.112.0\build\net451\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.112.0\build\net451\System.Data.SQLite.Core.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Data.SQLite.Core.1.0.112.0\build\net451\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Data.SQLite.Core.1.0.112.0\build\net451\System.Data.SQLite.Core.targets'))" />
+  </Target>
+</Project>

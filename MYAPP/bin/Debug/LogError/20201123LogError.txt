@@ -1,0 +1,287 @@
+11/23/2020 5:39:40 AM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/23/2020 5:39:41 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/23/2020 5:39:51 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/23/2020 5:39:52 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/23/2020 5:39:54 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/23/2020 5:41:52 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/23/2020 5:41:52 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/23/2020 5:42:33 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/23/2020 5:42:33 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/23/2020 5:42:46 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/23/2020 5:42:46 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/23/2020 5:57:21 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/23/2020 5:57:21 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/23/2020 6:08:14 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/23/2020 6:08:14 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/23/2020 6:08:47 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/23/2020 6:08:47 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/23/2020 6:09:00 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/23/2020 6:09:00 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/23/2020 6:09:18 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/23/2020 6:09:18 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/23/2020 6:27:47 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/23/2020 6:27:47 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/23/2020 6:50:34 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/23/2020 6:50:34 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/23/2020 6:52:25 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/23/2020 6:52:25 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/23/2020 6:55:03 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/23/2020 6:55:03 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/23/2020 6:55:21 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/23/2020 6:55:21 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/23/2020 6:55:35 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/23/2020 6:55:35 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/23/2020 6:55:48 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/23/2020 6:55:48 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+23/11/2020 08:55:00   Invalid column name 'name'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 08:56:25   Invalid column name 'name'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 08:59:20   No connection could be made because the target machine actively refused it 127.0.0.1:2019 - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 08:59:20   Object reference not set to an instance of an object. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 09:01:52   No connection could be made because the target machine actively refused it 127.0.0.1:2019 - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 09:01:52   Object reference not set to an instance of an object. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 09:03:22   No connection could be made because the target machine actively refused it 127.0.0.1:2019 - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 09:03:23   Object reference not set to an instance of an object. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 09:03:33   No connection could be made because the target machine actively refused it 127.0.0.1:2019 - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 09:03:33   Object reference not set to an instance of an object. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 10:26:10   Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 10:26:11   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 10:53:37   Unable to write data to the transport connection: An established connection was aborted by the software in your host machine. - PC177141:10.80.23.160-FormChatting-Admin 
+23/11/2020 10:53:37   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 10:53:38   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormChatting-Admin 
+23/11/2020 10:53:40   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormChatting-Admin 
+23/11/2020 10:54:42   Cannot access a disposed object.
+Object name: 'FormChatting'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 10:54:42   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 10:56:11   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 10:56:11   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 10:56:12   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 10:56:12   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 11:06:14   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:06:14   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:12:54   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:12:54   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:14:50   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:14:50   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:17:59   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:17:59   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:18:54   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 11:18:54   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 11:19:16   Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 11:19:16   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 11:21:23   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 11:21:23   Object reference not set to an instance of an object. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 11:21:40   Object reference not set to an instance of an object. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 11:21:59   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 11:21:59   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 11:22:15   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 11:22:15   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 11:22:32   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:22:32   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:23:51   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:23:51   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:24:50   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:24:50   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:25:03   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:25:03   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:25:20   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:25:20   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:25:41   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:25:41   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:26:32   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:26:32   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:26:58   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 11:26:58   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 11:27:08   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 11:27:08   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 11:27:14   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:27:14   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:28:03   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:28:03   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:28:21   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 11:28:21   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 11:28:29   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 11:28:29   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 11:29:27   Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:29:27   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:33:50   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:33:50   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:35:35   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 11:35:35   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 11:50:15   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 11:50:15   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 13:35:50   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 13:35:50   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 13:36:03   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 13:36:03   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 14:21:42   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 14:21:42   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 15:50:17   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 15:50:17   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 15:53:35   Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 15:53:35   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 15:53:42   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormChatting-Admin 
+23/11/2020 15:53:49   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 15:53:49   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 15:55:04   Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 15:55:04   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 15:55:51   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormChatting-Admin 
+23/11/2020 15:56:34   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 15:56:34   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:09:59   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:09:59   Object reference not set to an instance of an object. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:10:07   Object reference not set to an instance of an object. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:10:37   Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:10:37   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:11:43   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:11:43   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:13:33   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:13:33   Object reference not set to an instance of an object. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:13:49   Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:13:49   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:13:50   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormChatting-Admin 
+23/11/2020 16:13:51   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormChatting-Admin 
+23/11/2020 16:13:52   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormChatting-Admin 
+23/11/2020 16:14:34   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:14:34   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:18:13   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:18:14   Object reference not set to an instance of an object. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:18:15   Object reference not set to an instance of an object. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:24:06   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:24:06   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:24:12   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:24:12   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:24:26   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 16:24:26   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 16:24:41   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 16:24:41   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 16:25:10   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 16:25:10   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 16:25:18   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 16:25:18   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 16:25:38   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 16:25:38   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 16:56:29   Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 16:56:29   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormMain-IT009 
+23/11/2020 16:56:29   Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:56:29   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:56:42   Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:56:42   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:57:06   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormChatting-Admin 
+23/11/2020 16:57:07   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormChatting-IT009 
+23/11/2020 16:57:08   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:57:24   Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:57:24   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:57:43   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:57:49   Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:57:49   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormMain-Admin 
+23/11/2020 16:59:12   The operation is not allowed on non-connected sockets. - PC177141:10.80.23.160-FormChatting-Admin 

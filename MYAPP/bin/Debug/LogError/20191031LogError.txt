@@ -1,0 +1,21 @@
+31/10/2019 08:25:05   Invalid column name 'icon'.
+Ambiguous column name 'MenuText'. - PC177141:10.80.23.163-FormMain-Admin 
+31/10/2019 10:42:50   Incorrect syntax near ';'. - PC177141:10.80.23.163-FormUser-Admin 
+31/10/2019 10:42:54   Incorrect syntax near ';'. - PC177141:10.80.23.163-FormUser-Admin 
+31/10/2019 10:43:13   Incorrect syntax near ';'. - PC177141:10.80.23.163-FormUser-Admin 
+31/10/2019 10:43:46   Incorrect syntax near ';'. - PC177141:10.80.23.163-FormUser-Admin 
+31/10/2019 10:44:33   Incorrect syntax near ';'. - PC177141:10.80.23.163-FormUser-Admin 
+31/10/2019 10:44:46   Incorrect syntax near ';'. - PC177141:10.80.23.163-FormUser-Admin 
+31/10/2019 10:49:27   Incorrect syntax near ';'. - PC177141:10.80.23.163-FormUser-Admin 
+31/10/2019 10:49:42   Incorrect syntax near ';'. - PC177141:10.80.23.163-FormUser-Admin 
+31/10/2019 10:49:53   Incorrect syntax near ';'. - PC177141:10.80.23.163-FormUser-Admin 
+31/10/2019 10:50:32   Incorrect syntax near ';'. - PC177141:10.80.23.163-FormUser-Admin 
+31/10/2019 10:51:34   Incorrect syntax near ';'. - PC177141:10.80.23.163-FormUser-Admin 
+31/10/2019 10:52:18   Incorrect syntax near ';'. - PC177141:10.80.23.163-FormUser-Admin 
+31/10/2019 10:52:59   Incorrect syntax near ';'. - PC177141:10.80.23.163-FormUser-Admin 
+31/10/2019 10:54:10   Incorrect syntax near ';'.
+Incorrect syntax near '0'.
+Unclosed quotation mark after the character string ')'. - PC177141:10.80.23.163-FormUser-Admin 
+31/10/2019 10:54:21   Incorrect syntax near ';'.
+Incorrect syntax near '0'.
+Unclosed quotation mark after the character string ')'. - PC177141:10.80.23.163-FormUser-Admin 

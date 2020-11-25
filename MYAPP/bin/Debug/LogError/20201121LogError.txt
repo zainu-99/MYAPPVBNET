@@ -1,0 +1,58 @@
+21/11/2020 12:41:54   Cannot insert duplicate key row in object 'dbo.Roles' with unique index 'IX_Roles'. The duplicate key value is (Role Group).
+The statement has been terminated. - PC177141:10.80.23.160-FormGroupLevel-Admin 
+21/11/2020 13:06:02   Cannot insert duplicate key row in object 'dbo.Roles' with unique index 'IX_Roles'. The duplicate key value is (Group).
+The statement has been terminated. - PC177141:10.80.23.160-FormRole-Admin 
+21/11/2020 13:06:14   Cannot insert duplicate key row in object 'dbo.Roles' with unique index 'IX_Roles'. The duplicate key value is (Group).
+The statement has been terminated. - PC177141:10.80.23.160-FormRole-Admin 
+21/11/2020 13:06:56   Cannot insert duplicate key row in object 'dbo.Roles' with unique index 'IX_Roles'. The duplicate key value is (Group).
+The statement has been terminated. - PC177141:10.80.23.160-FormRole-Admin 
+21/11/2020 13:07:04   Cannot insert duplicate key row in object 'dbo.Roles' with unique index 'IX_Roles'. The duplicate key value is (Group).
+The statement has been terminated. - PC177141:10.80.23.160-FormRole-Admin 
+21/11/2020 13:09:45   Cannot insert duplicate key row in object 'dbo.Roles' with unique index 'IX_Roles'. The duplicate key value is (Group).
+The statement has been terminated. - PC177141:10.80.23.160-FormRole-Admin 
+21/11/2020 13:10:34   Cannot insert duplicate key row in object 'dbo.Roles' with unique index 'IX_Roles'. The duplicate key value is (Group).
+The statement has been terminated. - PC177141:10.80.23.160-FormRole-Admin 
+21/11/2020 13:11:14   Cannot insert duplicate key row in object 'dbo.Roles' with unique index 'IX_Roles'. The duplicate key value is (Group).
+The statement has been terminated. - PC177141:10.80.23.160-FormRole-Admin 
+21/11/2020 13:11:26   Cannot insert duplicate key row in object 'dbo.Roles' with unique index 'IX_Roles'. The duplicate key value is (Group).
+The statement has been terminated. - PC177141:10.80.23.160-FormRole-Admin 
+21/11/2020 14:18:57   Invalid column name 'isView'.
+Invalid column name 'isAdd'.
+Invalid column name 'isEdit'.
+Invalid column name 'isDelete'.
+Invalid column name 'isPrint'.
+Invalid column name 'isCustom'. - PC177141:10.80.23.160-FormGroupLevel-Admin 
+21/11/2020 14:42:24   Incorrect syntax near ','. - PC177141:10.80.23.160-FormGroupLevel-Admin 
+21/11/2020 14:42:36   Incorrect syntax near ','. - PC177141:10.80.23.160-FormGroupLevel-Admin 
+11/21/2020 6:55:09 PM   Invalid column name 'nama'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/21/2020 6:56:20 PM   Invalid column name 'nama'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/21/2020 6:57:06 PM   Invalid column name 'nama'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/21/2020 6:57:25 PM   Invalid column name 'nama'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/21/2020 7:00:09 PM   Invalid column name 'nama'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/21/2020 7:00:12 PM   Invalid column name 'nama'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/21/2020 7:00:54 PM   Invalid column name 'nama'.
+Invalid column name 'keterangan'.
+Invalid column name 'nama'.
+Invalid column name 'keterangan'.
+Invalid column name 'keterangan'.
+Invalid column name 'nama'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/21/2020 7:01:28 PM   Invalid column name 'nama'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/21/2020 7:02:13 PM   Invalid column name 'nama'. - Annajiyah:192.168.56.1-FormGroupLevel-Admin 
+11/21/2020 7:02:15 PM   Invalid column name 'nama'. - Annajiyah:192.168.56.1-FormGroupLevel-Admin 
+11/21/2020 7:14:07 PM   Invalid column name 'nama'.
+Invalid column name 'alamat'. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/21/2020 7:57:45 PM   Incorrect syntax near the keyword 'where'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/21/2020 8:00:53 PM   Invalid column name 'nama'.
+Ambiguous column name 'id'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/21/2020 8:01:13 PM   Ambiguous column name 'id'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/21/2020 8:03:10 PM   Invalid object name 'ChatMember'. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/21/2020 8:43:26 PM   Invalid column name 'RoomId'. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/21/2020 8:50:58 PM   Incorrect syntax near the keyword 'and'. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/21/2020 8:51:25 PM   Invalid column name 'File_Attach'.
+Invalid column name 'ActionStatus'. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/21/2020 9:21:21 PM   Invalid column name 'File_Attach'.
+Invalid column name 'ActionStatus'. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/21/2020 9:22:08 PM   Invalid column name 'File_Attach'.
+Invalid column name 'ActionStatus'. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/21/2020 9:22:57 PM   Invalid column name 'File_Attach'.
+Invalid column name 'ActionStatus'. - Annajiyah:192.168.56.1-FormChatting-Admin 

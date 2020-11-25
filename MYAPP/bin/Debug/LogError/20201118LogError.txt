@@ -1,0 +1,12 @@
+18/11/2020 08:55:50   Ambiguous column name 'AccessView'.
+Ambiguous column name 'AccessAdd'.
+Ambiguous column name 'AccessEdit'.
+Ambiguous column name 'AccessDelete'.
+Ambiguous column name 'AccessPrint'.
+Ambiguous column name 'AccessCustom'. - PC177141:10.80.23.160-FormMain-Admin 
+18/11/2020 08:57:17   Ambiguous column name 'AccessView'.
+Ambiguous column name 'AccessAdd'.
+Ambiguous column name 'AccessEdit'.
+Ambiguous column name 'AccessDelete'.
+Ambiguous column name 'AccessPrint'.
+Ambiguous column name 'AccessCustom'. - PC177141:10.80.23.160-FormMain-Admin 

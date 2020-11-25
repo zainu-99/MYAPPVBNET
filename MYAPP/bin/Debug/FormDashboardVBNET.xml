@@ -1,0 +1,106 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FormDashboardVBNET
+</name>
+</assembly>
+<members>
+<member name="T:FormDashboardVBNET.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:FormDashboardVBNET.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:FormDashboardVBNET.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:FormDashboardVBNET.My.Resources.Resources._date">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FormDashboardVBNET.My.Resources.Resources.clock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FormDashboardVBNET.My.Resources.Resources.connect">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FormDashboardVBNET.My.Resources.Resources.counter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FormDashboardVBNET.My.Resources.Resources.help">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FormDashboardVBNET.My.Resources.Resources.ic_message">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FormDashboardVBNET.My.Resources.Resources.Jacksonsoft_CustomTabControl">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:FormDashboardVBNET.My.Resources.Resources.logout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FormDashboardVBNET.My.Resources.Resources.menu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FormDashboardVBNET.My.Resources.Resources.notif">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FormDashboardVBNET.My.Resources.Resources.refresh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FormDashboardVBNET.My.Resources.Resources.setting">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FormDashboardVBNET.My.Resources.Resources.sgnal_no">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FormDashboardVBNET.My.Resources.Resources.signal_hight">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FormDashboardVBNET.My.Resources.Resources.signal_low">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FormDashboardVBNET.My.Resources.Resources.user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

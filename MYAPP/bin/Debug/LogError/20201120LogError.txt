@@ -1,0 +1,2 @@
+20/11/2020 16:20:41   The DELETE statement conflicted with the REFERENCE constraint "FK_LogApp_Users". The conflict occurred in database "MYAPP", table "dbo.LogApp", column 'UserID'.
+The statement has been terminated. - PC177141:10.80.23.160-FormUser-Admin 

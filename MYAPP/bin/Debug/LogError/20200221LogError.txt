@@ -1,0 +1,26 @@
+21/02/2020 09:19:41   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMain-Admin 
+21/02/2020 09:19:42   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMain-Admin 
+21/02/2020 09:20:04   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMenuApp-Admin 
+21/02/2020 09:20:05   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMenuApp-Admin 
+21/02/2020 09:21:41   Incorrect syntax near 'ALLL'. - PC177141:10.80.23.163-FormMain-Admin 
+21/02/2020 09:28:06   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMain-Admin 
+21/02/2020 09:28:07   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMain-Admin 
+21/02/2020 09:30:22   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMain-Admin 
+21/02/2020 09:30:23   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMain-Admin 
+21/02/2020 09:34:02   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMain-Admin 
+21/02/2020 09:34:02   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMain-Admin 
+21/02/2020 09:34:36   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMain-Admin 
+21/02/2020 09:34:37   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMain-Admin 
+21/02/2020 10:03:02   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMain-Admin 
+21/02/2020 10:03:03   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMain-Admin 
+21/02/2020 10:04:38   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMain-Admin 
+21/02/2020 10:04:38   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMain-Admin 
+21/02/2020 10:06:09   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMain-Admin 
+21/02/2020 10:06:09   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMain-Admin 
+21/02/2020 10:06:41   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMain-Admin 
+21/02/2020 10:06:42   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMain-Admin 
+21/02/2020 10:09:09   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMain-Admin 
+21/02/2020 10:09:09   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMain-Admin 
+21/02/2020 10:09:39   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMain-Admin 
+21/02/2020 10:09:39   Conversion failed when converting the varchar value 'System.Data.DataRowView' to data type int. - PC177141:10.80.23.163-FormMain-Admin 
+21/02/2020 10:35:59   Incorrect syntax near the keyword 'and'. - PC177141:10.80.23.163-FormMain-Admin 

@@ -1,0 +1,41 @@
+20/02/2020 08:28:01   The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserRole_Users". The conflict occurred in database "MYAPP", table "dbo.Users", column 'id'.
+The statement has been terminated. - PC177141:10.80.23.163-FormUserRole-Admin 
+20/02/2020 08:31:24   The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserRole_Users". The conflict occurred in database "MYAPP", table "dbo.Users", column 'id'.
+The statement has been terminated. - PC177141:10.80.23.163-FormUserRole-Admin 
+20/02/2020 08:51:15   The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserRole_Users". The conflict occurred in database "MYAPP", table "dbo.Users", column 'id'.
+The statement has been terminated. - PC177141:10.80.23.163-FormUserRole-Admin 
+20/02/2020 08:51:17   The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserRole_Users". The conflict occurred in database "MYAPP", table "dbo.Users", column 'id'.
+The statement has been terminated. - PC177141:10.80.23.163-FormUserRole-Admin 
+20/02/2020 08:51:17   The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserRole_Users". The conflict occurred in database "MYAPP", table "dbo.Users", column 'id'.
+The statement has been terminated. - PC177141:10.80.23.163-FormUserRole-Admin 
+20/02/2020 08:51:18   The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserRole_Users". The conflict occurred in database "MYAPP", table "dbo.Users", column 'id'.
+The statement has been terminated. - PC177141:10.80.23.163-FormUserRole-Admin 
+20/02/2020 08:51:18   The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserRole_Users". The conflict occurred in database "MYAPP", table "dbo.Users", column 'id'.
+The statement has been terminated. - PC177141:10.80.23.163-FormUserRole-Admin 
+20/02/2020 08:51:19   The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserRole_Users". The conflict occurred in database "MYAPP", table "dbo.Users", column 'id'.
+The statement has been terminated. - PC177141:10.80.23.163-FormUserRole-Admin 
+20/02/2020 08:51:19   The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserRole_Users". The conflict occurred in database "MYAPP", table "dbo.Users", column 'id'.
+The statement has been terminated. - PC177141:10.80.23.163-FormUserRole-Admin 
+20/02/2020 08:51:20   The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserRole_Users". The conflict occurred in database "MYAPP", table "dbo.Users", column 'id'.
+The statement has been terminated. - PC177141:10.80.23.163-FormUserRole-Admin 
+20/02/2020 08:51:20   The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserRole_Users". The conflict occurred in database "MYAPP", table "dbo.Users", column 'id'.
+The statement has been terminated. - PC177141:10.80.23.163-FormUserRole-Admin 
+20/02/2020 08:51:21   The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserRole_Users". The conflict occurred in database "MYAPP", table "dbo.Users", column 'id'.
+The statement has been terminated. - PC177141:10.80.23.163-FormUserRole-Admin 
+20/02/2020 08:51:21   The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserRole_Users". The conflict occurred in database "MYAPP", table "dbo.Users", column 'id'.
+The statement has been terminated. - PC177141:10.80.23.163-FormUserRole-Admin 
+20/02/2020 08:51:22   The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserRole_Users". The conflict occurred in database "MYAPP", table "dbo.Users", column 'id'.
+The statement has been terminated. - PC177141:10.80.23.163-FormUserRole-Admin 
+20/02/2020 08:51:22   The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserRole_Users". The conflict occurred in database "MYAPP", table "dbo.Users", column 'id'.
+The statement has been terminated. - PC177141:10.80.23.163-FormUserRole-Admin 
+20/02/2020 08:51:22   The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserRole_Users". The conflict occurred in database "MYAPP", table "dbo.Users", column 'id'.
+The statement has been terminated. - PC177141:10.80.23.163-FormUserRole-Admin 
+20/02/2020 08:51:22   The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserRole_Users". The conflict occurred in database "MYAPP", table "dbo.Users", column 'id'.
+The statement has been terminated. - PC177141:10.80.23.163-FormUserRole-Admin 
+20/02/2020 08:51:22   The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserRole_Users". The conflict occurred in database "MYAPP", table "dbo.Users", column 'id'.
+The statement has been terminated. - PC177141:10.80.23.163-FormUserRole-Admin 
+20/02/2020 10:13:26   Incorrect syntax near 'wqerqw'. - PC177141:10.80.23.163-FormErrorReport-Admin 
+20/02/2020 13:41:10   A TOP can not be used in the same query or sub-query as a OFFSET. - PC177141:10.80.23.163-FormMain-Admin 
+20/02/2020 14:00:33   Ambiguous column name 'id'. - PC177141:10.80.23.163-FormMain-Admin 
+20/02/2020 14:12:49   Incorrect syntax near 'a'. - PC177141:10.80.23.163-FormLog-Admin 
+20/02/2020 14:19:06   Incorrect syntax near '>'. - PC177141:10.80.23.163-FormMain-Admin 

@@ -1,0 +1,2 @@
+13/04/2020 16:47:03   Incorrect syntax near '='. - PC177141:10.80.23.181-FormMaxxisEmployee-Admin 
+13/04/2020 16:48:11   Invalid column name 'S244'. - PC177141:10.80.23.181-FormMaxxisEmployee-Admin 

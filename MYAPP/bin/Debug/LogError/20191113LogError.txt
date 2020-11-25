@@ -1,0 +1,28 @@
+13/11/2019 09:50:49   SQL logic error
+no such table: Users - PC177141:10.80.23.163-FormMain-Admin 
+13/11/2019 09:50:51   SQL logic error
+no such table: ErrorReport - PC177141:10.80.23.163-FormMain-Admin 
+13/11/2019 09:50:52   SQL logic error
+no such table: ErrorReport - PC177141:10.80.23.163-FormMain-Admin 
+13/11/2019 09:50:52   SQL logic error
+no such table: ErrorReport - PC177141:10.80.23.163-FormMain-Admin 
+13/11/2019 09:51:45   SQL logic error
+no such table: Users - PC177141:10.80.23.163-FormMain-Admin 
+13/11/2019 10:38:36   SQL logic error
+no such column: status - PC177141:10.80.23.163-FormMain-Admin 
+13/11/2019 10:38:38   SQL logic error
+no such table: ErrorReport - PC177141:10.80.23.163-FormMain-Admin 
+13/11/2019 10:38:40   SQL logic error
+no such table: ErrorReport - PC177141:10.80.23.163-FormMain-Admin 
+13/11/2019 10:49:29   SQL logic error
+no such column: status - PC177141:10.80.23.163-FormMain-Admin 
+13/11/2019 10:49:31   SQL logic error
+no such table: ErrorReport - PC177141:10.80.23.163-FormMain-Admin 
+13/11/2019 10:53:02   SQL logic error
+no such table: LogApp - PC177141:10.80.23.163-FormMain-admin 
+13/11/2019 10:53:31   SQL logic error
+no such table: LogApp - PC177141:10.80.23.163-FormMain-admin 
+13/11/2019 13:04:47   String was not recognized as a valid DateTime. - PC177141:10.80.23.163-FormMain-Admin 
+13/11/2019 13:05:55   String was not recognized as a valid DateTime. - PC177141:10.80.23.163-FormMain-Admin 
+13/11/2019 13:06:37   String was not recognized as a valid DateTime. - PC177141:10.80.23.163-FormMain-Admin 
+13/11/2019 13:07:27   String was not recognized as a valid DateTime. - PC177141:10.80.23.163-FormMain-Admin 

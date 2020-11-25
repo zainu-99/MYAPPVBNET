@@ -1,0 +1,9 @@
+24/11/2020 08:36:02   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - PC177141:10.80.23.160-FormMain-Admin 
+24/11/2020 08:36:02   Object reference not set to an instance of an object. - PC177141:10.80.23.160-FormMain-Admin 
+24/11/2020 08:36:06   Object reference not set to an instance of an object. - PC177141:10.80.23.160-FormUser-Admin 
+24/11/2020 08:42:21   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - PC177141:10.80.23.160-FormMain-Admin 
+24/11/2020 08:42:21   Object reference not set to an instance of an object. - PC177141:10.80.23.160-FormMain-Admin 
+24/11/2020 08:42:22   Object reference not set to an instance of an object. - PC177141:10.80.23.160-FormMain-Admin 
+24/11/2020 08:44:52   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - PC177141:10.80.23.160-FormMain-Admin 
+24/11/2020 08:44:53   Object reference not set to an instance of an object. - PC177141:10.80.23.160-FormMain-Admin 
+24/11/2020 08:44:53   Object reference not set to an instance of an object. - PC177141:10.80.23.160-FormMain-Admin 

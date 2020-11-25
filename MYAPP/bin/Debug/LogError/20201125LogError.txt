@@ -1,0 +1,4 @@
+11/25/2020 8:03:07 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/25/2020 8:03:07 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 

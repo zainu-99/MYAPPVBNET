@@ -1,0 +1,349 @@
+11/22/2020 9:38:28 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:38:43 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:40:51 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:41:48 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:42:36 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:42:37 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:42:38 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:42:39 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:42:39 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:42:39 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:42:40 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:42:40 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:42:40 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:42:40 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:42:40 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:42:40 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:42:41 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:42:41 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:42:41 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:42:41 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:43:16 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:45:26 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:20:48 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:22:13 AM   The operation is not allowed on non-connected sockets. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:22:14 AM   The operation is not allowed on non-connected sockets. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:22:13 AM   A connect request was made on an already connected socket - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:22:25 AM   A connect request was made on an already connected socket - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:22:29 AM   A connect request was made on an already connected socket - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:22:48 AM   A connect request was made on an already connected socket - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:23:48 AM   The operation is not allowed on non-connected sockets. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:23:48 AM   The operation is not allowed on non-connected sockets. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:23:48 AM   A connect request was made on an already connected socket - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:24:18 AM   A connect request was made on an already connected socket - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:24:33 AM   A connect request was made on an already connected socket - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:24:43 AM   A connect request was made on an already connected socket - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:25:17 AM   A connect request was made on an already connected socket - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:25:17 AM   The operation is not allowed on non-connected sockets. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:25:18 AM   The operation is not allowed on non-connected sockets. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:27:31 AM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:27:52 AM   A connect request was made on an already connected socket - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:27:52 AM   The operation is not allowed on non-connected sockets. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:27:52 AM   The operation is not allowed on non-connected sockets. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:29:41 AM   The operation is not allowed on non-connected sockets. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:29:41 AM   The operation is not allowed on non-connected sockets. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:29:45 AM   A connect request was made on an already connected socket - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:32:25 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:32:25 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:32:33 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:32:33 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:32:36 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 11:32:36 AM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 12:34:45 PM   Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 12:34:45 PM   The operation is not allowed on non-connected sockets. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 12:36:22 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 12:36:22 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 12:38:24 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 12:38:24 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 1:11:42 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 1:11:42 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 1:14:45 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 1:14:45 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 1:15:11 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 1:15:11 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 1:15:31 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 1:15:31 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 1:15:35 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 1:15:35 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 1:19:36 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 1:19:37 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 1:19:50 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 1:19:50 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 1:19:57 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 1:19:57 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 1:20:35 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 1:20:35 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 1:20:42 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 1:20:42 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 1:20:46 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 1:20:46 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 1:20:49 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 1:20:49 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 1:34:32 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 1:34:32 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 1:35:26 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 1:35:26 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 1:37:33 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 1:37:33 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 2:26:41 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 2:26:42 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 3:18:48 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 3:18:48 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 4:01:16 PM   Unable to cast object of type 'MYAPPVB.MessageData' to type 'MYAPPVB.UserConnected'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 4:01:19 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 4:01:19 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 4:08:06 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 4:08:06 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 4:09:03 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 4:09:03 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 4:27:54 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 4:27:55 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 4:31:01 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 4:31:02 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 4:33:56 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 4:33:56 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 4:36:22 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 4:36:22 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 6:30:19 PM   Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 6:30:19 PM   The operation is not allowed on non-connected sockets. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 6:38:25 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 6:38:25 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 6:51:18 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 6:51:18 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 6:52:18 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 6:52:18 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 6:59:55 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 6:59:55 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:00:51 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:00:51 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:04:37 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:04:37 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:05:27 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:05:27 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:06:35 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 7:06:35 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 7:06:56 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/22/2020 7:06:58 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/22/2020 7:07:06 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/22/2020 7:07:08 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/22/2020 7:07:16 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormChatting-IT009 
+11/22/2020 7:07:18 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormChatting-IT009 
+11/22/2020 7:09:33 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:09:33 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:10:48 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 7:10:48 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 7:11:11 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:11:11 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:12:41 PM   Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:12:42 PM   The operation is not allowed on non-connected sockets. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:17:48 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:17:48 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:29:58 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:29:58 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:32:40 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:32:40 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:32:43 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/22/2020 7:32:44 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/22/2020 7:32:46 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/22/2020 7:33:02 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:33:02 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:33:10 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 7:33:10 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 7:34:09 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:34:09 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:36:14 PM   Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:36:14 PM   The operation is not allowed on non-connected sockets. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:43:24 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:43:24 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:44:56 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 7:44:57 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 7:45:20 PM   Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:45:20 PM   The operation is not allowed on non-connected sockets. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:46:20 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:46:20 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:47:20 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:47:21 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:48:38 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:48:38 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:48:46 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/22/2020 7:48:52 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/22/2020 7:48:52 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/22/2020 7:48:54 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/22/2020 7:49:11 PM   Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:49:11 PM   The operation is not allowed on non-connected sockets. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:49:17 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:49:17 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:49:34 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:49:34 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:50:25 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:50:25 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:50:34 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:50:34 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:51:43 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 7:51:43 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 7:52:35 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 7:52:35 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:18:40 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:18:40 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:19:05 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:19:05 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:19:16 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 8:19:16 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 8:24:05 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:24:05 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:24:11 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:24:11 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:24:31 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 8:24:31 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 8:24:44 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:24:44 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:24:59 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 8:24:59 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 8:36:48 PM   Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:36:48 PM   The operation is not allowed on non-connected sockets. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:44:36 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:44:36 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:52:28 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:52:28 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:52:41 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:52:41 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:52:45 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/22/2020 8:52:45 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/22/2020 8:52:47 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/22/2020 8:53:09 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:53:09 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:53:30 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 8:53:30 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 8:53:54 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:53:54 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:54:05 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:54:05 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:56:40 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:56:40 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:57:13 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 8:57:14 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:00:35 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:00:35 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:02:38 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:02:38 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:02:45 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/22/2020 9:02:46 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/22/2020 9:02:47 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormChatting-Admin 
+11/22/2020 9:03:06 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:03:06 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:03:30 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 9:03:30 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-IT009 
+11/22/2020 9:04:55 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:04:55 PM   Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'. - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:12:48 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+11/22/2020 9:12:48 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 

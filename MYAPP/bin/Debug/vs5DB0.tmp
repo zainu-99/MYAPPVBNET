@@ -1,0 +1,321 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MYAPPVB
+</name>
+</assembly>
+<members>
+<member name="T:MYAPPVB.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources._0_2844_1920x1080_hd_wallpapers_for_windows_unique_hd_wallpapers">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources._21014_full_solid_color_wallpaper_hd_for_android_apk_download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources._date">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.auth">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.back">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.bg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.bg1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.bg11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.book">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.button_send">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.circle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.clock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.close">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.close1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.closeform">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.connect">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.counter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.dashboard">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.delete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.edit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.filter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.help">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.ic_attach">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.ic_eyes_close_white">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.ic_eyes_open_white">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.ic_log">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.ic_message">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.iconmenu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.key">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.laporan">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.loading">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.loading_animation1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.logout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.master">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.MAXXIS_LOGO_RGB_01">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.MAXXISS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.menu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.minimize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.minimize1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.minimizeform">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.Newtonsoft_Json">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.notif">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.password">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.pattern">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.refresh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.report">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.save">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.Screenshot__72_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.send_button">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.setting">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.sgnal_no">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.signal_hight">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.signal_low">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.source">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.th__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.userid">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MYAPPVB.My.Resources.Resources.username">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

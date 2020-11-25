@@ -1,0 +1,14 @@
+19/02/2020 12:58:11   The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserRole_Users". The conflict occurred in database "MYAPP", table "dbo.Users", column 'id'.
+The statement has been terminated. - PC177141:10.80.23.163-FormUserRole-Admin 
+19/02/2020 12:58:13   The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserRole_Users". The conflict occurred in database "MYAPP", table "dbo.Users", column 'id'.
+The statement has been terminated. - PC177141:10.80.23.163-FormUserRole-Admin 
+19/02/2020 12:58:14   The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserRole_Users". The conflict occurred in database "MYAPP", table "dbo.Users", column 'id'.
+The statement has been terminated. - PC177141:10.80.23.163-FormUserRole-Admin 
+19/02/2020 12:58:15   The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserRole_Users". The conflict occurred in database "MYAPP", table "dbo.Users", column 'id'.
+The statement has been terminated. - PC177141:10.80.23.163-FormUserRole-Admin 
+19/02/2020 13:10:47   Conversion failed when converting the varchar value 'True' to data type tinyint. - PC177141:10.80.23.163-FormUserRole-Admin 
+19/02/2020 13:10:50   Conversion failed when converting the varchar value 'True' to data type tinyint. - PC177141:10.80.23.163-FormUserRole-Admin 
+19/02/2020 13:10:53   Conversion failed when converting the varchar value 'True' to data type tinyint. - PC177141:10.80.23.163-FormUserRole-Admin 
+19/02/2020 13:10:57   Conversion failed when converting the varchar value 'True' to data type tinyint. - PC177141:10.80.23.163-FormUserRole-Admin 
+19/02/2020 13:10:59   Conversion failed when converting the varchar value 'True' to data type tinyint. - PC177141:10.80.23.163-FormUserRole-Admin 
+19/02/2020 13:11:01   Conversion failed when converting the varchar value 'True' to data type tinyint. - PC177141:10.80.23.163-FormUserRole-Admin 
