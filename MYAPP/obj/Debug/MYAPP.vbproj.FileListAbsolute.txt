@@ -98,3 +98,7 @@ E:\Project\visual studio\MYAPPVB\MYAPP\bin\Debug\MYAPP_log.ldf
 E:\Project\visual studio\MYAPPVB\MYAPP\bin\Debug\FormDashboardVBNET.dll
 E:\Project\visual studio\MYAPPVB\MYAPP\bin\Debug\FormDashboardVBNET.pdb
 E:\Project\visual studio\MYAPPVB\MYAPP\bin\Debug\FormDashboardVBNET.xml
+E:\Project\visual studio\MYAPPVBNET\MYAPP\bin\Debug\MYAPPVB.exe.config
+E:\Project\visual studio\MYAPPVBNET\MYAPP\obj\Debug\MYAPPVB.exe
+E:\Project\visual studio\MYAPPVBNET\MYAPP\obj\Debug\MYAPPVB.xml
+E:\Project\visual studio\MYAPPVBNET\MYAPP\obj\Debug\MYAPPVB.pdb
