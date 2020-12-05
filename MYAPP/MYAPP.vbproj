@@ -294,10 +294,10 @@
     <Compile Include="Sistem Admin\User\FormUserGroup.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Sistem Admin\Access\FormUserRole.Designer.vb">
+    <Compile Include="Sistem Admin\User\FormUserRole.Designer.vb">
       <DependentUpon>FormUserRole.vb</DependentUpon>
     </Compile>
-    <Compile Include="Sistem Admin\Access\FormUserRole.vb">
+    <Compile Include="Sistem Admin\User\FormUserRole.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -399,7 +399,7 @@
     <EmbeddedResource Include="Sistem Admin\User\FormUserGroup.resx">
       <DependentUpon>FormUserGroup.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Sistem Admin\Access\FormUserRole.resx">
+    <EmbeddedResource Include="Sistem Admin\User\FormUserRole.resx">
       <DependentUpon>FormUserRole.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">

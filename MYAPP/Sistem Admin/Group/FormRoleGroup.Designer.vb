@@ -22,21 +22,21 @@ Partial Class FormRoleGroup
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle5 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle6 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Me.GroupBoxInputData = New System.Windows.Forms.GroupBox()
-        Me.ComboBoxGroupLevel = New System.Windows.Forms.ComboBox()
+        Me.ButtonRefresh = New System.Windows.Forms.Button()
+        Me.TextBoxGroupLevel = New System.Windows.Forms.TextBox()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.dgv = New System.Windows.Forms.DataGridView()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.TextBoxSearch = New System.Windows.Forms.TextBox()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.ButtonBack = New System.Windows.Forms.Button()
-        Me.ButtonRefresh = New System.Windows.Forms.Button()
         Me.ID = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.Role = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.Keterangan = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.Remark = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.IsView = New System.Windows.Forms.DataGridViewCheckBoxColumn()
         Me.IsAdd = New System.Windows.Forms.DataGridViewCheckBoxColumn()
         Me.IsEdit = New System.Windows.Forms.DataGridViewCheckBoxColumn()
@@ -55,7 +55,8 @@ Partial Class FormRoleGroup
         '
         'GroupBoxInputData
         '
-        Me.GroupBoxInputData.Controls.Add(Me.ComboBoxGroupLevel)
+        Me.GroupBoxInputData.Controls.Add(Me.ButtonRefresh)
+        Me.GroupBoxInputData.Controls.Add(Me.TextBoxGroupLevel)
         Me.GroupBoxInputData.Controls.Add(Me.Label5)
         Me.GroupBoxInputData.Location = New System.Drawing.Point(12, 57)
         Me.GroupBoxInputData.Name = "GroupBoxInputData"
@@ -64,16 +65,32 @@ Partial Class FormRoleGroup
         Me.GroupBoxInputData.TabStop = False
         Me.GroupBoxInputData.Text = "Data Group Level"
         '
-        'ComboBoxGroupLevel
+        'ButtonRefresh
         '
-        Me.ComboBoxGroupLevel.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+        Me.ButtonRefresh.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.ButtonRefresh.BackColor = System.Drawing.Color.Teal
+        Me.ButtonRefresh.FlatAppearance.BorderColor = System.Drawing.SystemColors.InactiveCaption
+        Me.ButtonRefresh.FlatAppearance.BorderSize = 0
+        Me.ButtonRefresh.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.ButtonRefresh.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.ButtonRefresh.ForeColor = System.Drawing.SystemColors.HighlightText
+        Me.ButtonRefresh.Image = Global.MYAPPVB.My.Resources.Resources.refresh
+        Me.ButtonRefresh.Location = New System.Drawing.Point(717, 7)
+        Me.ButtonRefresh.Name = "ButtonRefresh"
+        Me.ButtonRefresh.Size = New System.Drawing.Size(47, 47)
+        Me.ButtonRefresh.TabIndex = 41
+        Me.ButtonRefresh.UseVisualStyleBackColor = False
+        '
+        'TextBoxGroupLevel
+        '
+        Me.TextBoxGroupLevel.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.ComboBoxGroupLevel.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.ComboBoxGroupLevel.FormattingEnabled = True
-        Me.ComboBoxGroupLevel.Location = New System.Drawing.Point(91, 16)
-        Me.ComboBoxGroupLevel.Name = "ComboBoxGroupLevel"
-        Me.ComboBoxGroupLevel.Size = New System.Drawing.Size(673, 26)
-        Me.ComboBoxGroupLevel.TabIndex = 5
+        Me.TextBoxGroupLevel.Font = New System.Drawing.Font("Arial Narrow", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBoxGroupLevel.Location = New System.Drawing.Point(92, 20)
+        Me.TextBoxGroupLevel.Name = "TextBoxGroupLevel"
+        Me.TextBoxGroupLevel.ReadOnly = True
+        Me.TextBoxGroupLevel.Size = New System.Drawing.Size(606, 25)
+        Me.TextBoxGroupLevel.TabIndex = 5
         '
         'Label5
         '
@@ -90,36 +107,36 @@ Partial Class FormRoleGroup
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.dgv.BackgroundColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle1.BackColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
-        DataGridViewCellStyle1.Font = New System.Drawing.Font("Arial Narrow", 11.25!, System.Drawing.FontStyle.Bold)
-        DataGridViewCellStyle1.ForeColor = System.Drawing.Color.White
-        DataGridViewCellStyle1.Padding = New System.Windows.Forms.Padding(0, 9, 0, 9)
-        DataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgv.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle1
+        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle4.BackColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
+        DataGridViewCellStyle4.Font = New System.Drawing.Font("Arial Narrow", 11.25!, System.Drawing.FontStyle.Bold)
+        DataGridViewCellStyle4.ForeColor = System.Drawing.Color.White
+        DataGridViewCellStyle4.Padding = New System.Windows.Forms.Padding(0, 9, 0, 9)
+        DataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgv.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle4
         Me.dgv.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.dgv.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.ID, Me.Role, Me.Keterangan, Me.IsView, Me.IsAdd, Me.IsEdit, Me.IsDelete, Me.IsPrint, Me.IsCustom, Me.AccessView, Me.AccessAdd, Me.AccessEdit, Me.AccessDelete, Me.AccessPrint, Me.AccessCustom})
-        DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(136, Byte))
-        DataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText
-        DataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.LightSeaGreen
-        DataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.dgv.DefaultCellStyle = DataGridViewCellStyle2
+        Me.dgv.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.ID, Me.Role, Me.Remark, Me.IsView, Me.IsAdd, Me.IsEdit, Me.IsDelete, Me.IsPrint, Me.IsCustom, Me.AccessView, Me.AccessAdd, Me.AccessEdit, Me.AccessDelete, Me.AccessPrint, Me.AccessCustom})
+        DataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle5.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle5.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(136, Byte))
+        DataGridViewCellStyle5.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle5.SelectionBackColor = System.Drawing.Color.LightSeaGreen
+        DataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.dgv.DefaultCellStyle = DataGridViewCellStyle5
         Me.dgv.Location = New System.Drawing.Point(12, 117)
         Me.dgv.MultiSelect = False
         Me.dgv.Name = "dgv"
-        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle3.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgv.RowHeadersDefaultCellStyle = DataGridViewCellStyle3
+        DataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle6.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle6.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgv.RowHeadersDefaultCellStyle = DataGridViewCellStyle6
         Me.dgv.RowTemplate.DefaultCellStyle.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.dgv.RowTemplate.DefaultCellStyle.ForeColor = System.Drawing.Color.Teal
         Me.dgv.RowTemplate.DefaultCellStyle.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
@@ -135,7 +152,7 @@ Partial Class FormRoleGroup
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Arial Narrow", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.ForeColor = System.Drawing.Color.Teal
-        Me.Label2.Location = New System.Drawing.Point(841, 56)
+        Me.Label2.Location = New System.Drawing.Point(805, 57)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(40, 16)
         Me.Label2.TabIndex = 38
@@ -145,9 +162,9 @@ Partial Class FormRoleGroup
         '
         Me.TextBoxSearch.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TextBoxSearch.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBoxSearch.Location = New System.Drawing.Point(844, 76)
+        Me.TextBoxSearch.Location = New System.Drawing.Point(808, 76)
         Me.TextBoxSearch.Name = "TextBoxSearch"
-        Me.TextBoxSearch.Size = New System.Drawing.Size(200, 24)
+        Me.TextBoxSearch.Size = New System.Drawing.Size(236, 24)
         Me.TextBoxSearch.TabIndex = 37
         '
         'Label1
@@ -176,21 +193,6 @@ Partial Class FormRoleGroup
         Me.ButtonBack.TabIndex = 41
         Me.ButtonBack.UseVisualStyleBackColor = False
         '
-        'ButtonRefresh
-        '
-        Me.ButtonRefresh.BackColor = System.Drawing.Color.Teal
-        Me.ButtonRefresh.FlatAppearance.BorderColor = System.Drawing.SystemColors.InactiveCaption
-        Me.ButtonRefresh.FlatAppearance.BorderSize = 0
-        Me.ButtonRefresh.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.ButtonRefresh.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.ButtonRefresh.ForeColor = System.Drawing.SystemColors.HighlightText
-        Me.ButtonRefresh.Image = Global.MYAPPVB.My.Resources.Resources.refresh
-        Me.ButtonRefresh.Location = New System.Drawing.Point(788, 62)
-        Me.ButtonRefresh.Name = "ButtonRefresh"
-        Me.ButtonRefresh.Size = New System.Drawing.Size(47, 47)
-        Me.ButtonRefresh.TabIndex = 40
-        Me.ButtonRefresh.UseVisualStyleBackColor = False
-        '
         'ID
         '
         Me.ID.HeaderText = "ID"
@@ -203,11 +205,11 @@ Partial Class FormRoleGroup
         Me.Role.Name = "Role"
         Me.Role.ReadOnly = True
         '
-        'Keterangan
+        'Remark
         '
-        Me.Keterangan.HeaderText = "Keterangan"
-        Me.Keterangan.Name = "Keterangan"
-        Me.Keterangan.ReadOnly = True
+        Me.Remark.HeaderText = "Remark"
+        Me.Remark.Name = "Remark"
+        Me.Remark.ReadOnly = True
         '
         'IsView
         '
@@ -290,7 +292,6 @@ Partial Class FormRoleGroup
         Me.BackColor = System.Drawing.Color.White
         Me.ClientSize = New System.Drawing.Size(1068, 555)
         Me.Controls.Add(Me.ButtonBack)
-        Me.Controls.Add(Me.ButtonRefresh)
         Me.Controls.Add(Me.GroupBoxInputData)
         Me.Controls.Add(Me.dgv)
         Me.Controls.Add(Me.Label2)
@@ -309,17 +310,18 @@ Partial Class FormRoleGroup
     End Sub
 
     Friend WithEvents GroupBoxInputData As GroupBox
-    Friend WithEvents ComboBoxGroupLevel As ComboBox
     Friend WithEvents Label5 As Label
     Friend WithEvents dgv As DataGridView
     Friend WithEvents Label2 As Label
     Friend WithEvents TextBoxSearch As TextBox
     Friend WithEvents Label1 As Label
-    Friend WithEvents ButtonRefresh As Button
     Friend WithEvents ButtonBack As Button
+    Friend WithEvents TextBoxGroupLevel As TextBox
+    Friend WithEvents Button1 As Button
+    Friend WithEvents ButtonRefresh As Button
     Friend WithEvents ID As DataGridViewTextBoxColumn
     Friend WithEvents Role As DataGridViewTextBoxColumn
-    Friend WithEvents Keterangan As DataGridViewTextBoxColumn
+    Friend WithEvents Remark As DataGridViewTextBoxColumn
     Friend WithEvents IsView As DataGridViewCheckBoxColumn
     Friend WithEvents IsAdd As DataGridViewCheckBoxColumn
     Friend WithEvents IsEdit As DataGridViewCheckBoxColumn

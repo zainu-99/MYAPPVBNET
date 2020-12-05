@@ -23,14 +23,21 @@ Partial Class FormGroupLevel
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Me.dgv = New System.Windows.Forms.DataGridView()
+        Me.ID = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.Group = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.Remark = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.ParentColumn = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.RoleGroup = New System.Windows.Forms.DataGridViewButtonColumn()
+        Me.IDGroup = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.IDParent = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.TextBoxSearch = New System.Windows.Forms.TextBox()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.GroupBoxInputData = New System.Windows.Forms.GroupBox()
-        Me.ButtonRoleGroup = New System.Windows.Forms.Button()
         Me.TextBoxRemark = New System.Windows.Forms.TextBox()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.ComboBoxParentGroup = New System.Windows.Forms.ComboBox()
@@ -45,12 +52,6 @@ Partial Class FormGroupLevel
         Me.ButtonDelete = New System.Windows.Forms.ToolStripMenuItem()
         Me.ButtonRefresh = New System.Windows.Forms.ToolStripMenuItem()
         Me.ButtonBack = New System.Windows.Forms.Button()
-        Me.ID = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.Group = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.Remark = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.ParentColumn = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.IDGroup = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.IDParent = New System.Windows.Forms.DataGridViewTextBoxColumn()
         CType(Me.dgv, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBoxInputData.SuspendLayout()
         Me.PanelButton.SuspendLayout()
@@ -73,27 +74,27 @@ Partial Class FormGroupLevel
         DataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
         Me.dgv.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle1
         Me.dgv.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.dgv.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.ID, Me.Group, Me.Remark, Me.ParentColumn, Me.IDGroup, Me.IDParent})
-        DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(136, Byte))
-        DataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText
-        DataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.LightSeaGreen
-        DataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.dgv.DefaultCellStyle = DataGridViewCellStyle2
+        Me.dgv.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.ID, Me.Group, Me.Remark, Me.ParentColumn, Me.RoleGroup, Me.IDGroup, Me.IDParent})
+        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle3.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(136, Byte))
+        DataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.LightSeaGreen
+        DataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.dgv.DefaultCellStyle = DataGridViewCellStyle3
         Me.dgv.Location = New System.Drawing.Point(11, 207)
         Me.dgv.MultiSelect = False
         Me.dgv.Name = "dgv"
         Me.dgv.ReadOnly = True
-        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle3.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgv.RowHeadersDefaultCellStyle = DataGridViewCellStyle3
+        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle4.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgv.RowHeadersDefaultCellStyle = DataGridViewCellStyle4
         Me.dgv.RowTemplate.DefaultCellStyle.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.dgv.RowTemplate.DefaultCellStyle.ForeColor = System.Drawing.Color.Teal
         Me.dgv.RowTemplate.DefaultCellStyle.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
@@ -102,6 +103,55 @@ Partial Class FormGroupLevel
         Me.dgv.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
         Me.dgv.Size = New System.Drawing.Size(938, 240)
         Me.dgv.TabIndex = 43
+        '
+        'ID
+        '
+        Me.ID.HeaderText = "ID"
+        Me.ID.Name = "ID"
+        Me.ID.ReadOnly = True
+        Me.ID.Visible = False
+        '
+        'Group
+        '
+        Me.Group.HeaderText = "Group"
+        Me.Group.Name = "Group"
+        Me.Group.ReadOnly = True
+        '
+        'Remark
+        '
+        Me.Remark.HeaderText = "Remark"
+        Me.Remark.Name = "Remark"
+        Me.Remark.ReadOnly = True
+        '
+        'ParentColumn
+        '
+        Me.ParentColumn.HeaderText = "Parent"
+        Me.ParentColumn.Name = "ParentColumn"
+        Me.ParentColumn.ReadOnly = True
+        '
+        'RoleGroup
+        '
+        DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle2.Padding = New System.Windows.Forms.Padding(5)
+        DataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.RoleGroup.DefaultCellStyle = DataGridViewCellStyle2
+        Me.RoleGroup.HeaderText = "Role Group"
+        Me.RoleGroup.Name = "RoleGroup"
+        Me.RoleGroup.ReadOnly = True
+        '
+        'IDGroup
+        '
+        Me.IDGroup.HeaderText = "IDGroup"
+        Me.IDGroup.Name = "IDGroup"
+        Me.IDGroup.ReadOnly = True
+        Me.IDGroup.Visible = False
+        '
+        'IDParent
+        '
+        Me.IDParent.HeaderText = "IDParent"
+        Me.IDParent.Name = "IDParent"
+        Me.IDParent.ReadOnly = True
+        Me.IDParent.Visible = False
         '
         'Label2
         '
@@ -139,7 +189,6 @@ Partial Class FormGroupLevel
         '
         Me.GroupBoxInputData.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.GroupBoxInputData.Controls.Add(Me.ButtonRoleGroup)
         Me.GroupBoxInputData.Controls.Add(Me.TextBoxRemark)
         Me.GroupBoxInputData.Controls.Add(Me.Label3)
         Me.GroupBoxInputData.Controls.Add(Me.ComboBoxParentGroup)
@@ -154,21 +203,6 @@ Partial Class FormGroupLevel
         Me.GroupBoxInputData.TabStop = False
         Me.GroupBoxInputData.Text = "Form Input Data"
         '
-        'ButtonRoleGroup
-        '
-        Me.ButtonRoleGroup.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.ButtonRoleGroup.BackColor = System.Drawing.Color.Turquoise
-        Me.ButtonRoleGroup.FlatAppearance.BorderSize = 0
-        Me.ButtonRoleGroup.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.ButtonRoleGroup.Font = New System.Drawing.Font("Arial Narrow", 11.25!)
-        Me.ButtonRoleGroup.ForeColor = System.Drawing.Color.White
-        Me.ButtonRoleGroup.Location = New System.Drawing.Point(818, 14)
-        Me.ButtonRoleGroup.Name = "ButtonRoleGroup"
-        Me.ButtonRoleGroup.Size = New System.Drawing.Size(101, 32)
-        Me.ButtonRoleGroup.TabIndex = 54
-        Me.ButtonRoleGroup.Text = "Role Group"
-        Me.ButtonRoleGroup.UseVisualStyleBackColor = False
-        '
         'TextBoxRemark
         '
         Me.TextBoxRemark.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
@@ -176,7 +210,7 @@ Partial Class FormGroupLevel
         Me.TextBoxRemark.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBoxRemark.Location = New System.Drawing.Point(497, 17)
         Me.TextBoxRemark.Name = "TextBoxRemark"
-        Me.TextBoxRemark.Size = New System.Drawing.Size(315, 24)
+        Me.TextBoxRemark.Size = New System.Drawing.Size(424, 24)
         Me.TextBoxRemark.TabIndex = 13
         '
         'Label3
@@ -322,45 +356,6 @@ Partial Class FormGroupLevel
         Me.ButtonBack.TabIndex = 48
         Me.ButtonBack.UseVisualStyleBackColor = False
         '
-        'ID
-        '
-        Me.ID.HeaderText = "ID"
-        Me.ID.Name = "ID"
-        Me.ID.ReadOnly = True
-        Me.ID.Visible = False
-        '
-        'Group
-        '
-        Me.Group.HeaderText = "Group"
-        Me.Group.Name = "Group"
-        Me.Group.ReadOnly = True
-        '
-        'Remark
-        '
-        Me.Remark.HeaderText = "Remark"
-        Me.Remark.Name = "Remark"
-        Me.Remark.ReadOnly = True
-        '
-        'ParentColumn
-        '
-        Me.ParentColumn.HeaderText = "Parent"
-        Me.ParentColumn.Name = "ParentColumn"
-        Me.ParentColumn.ReadOnly = True
-        '
-        'IDGroup
-        '
-        Me.IDGroup.HeaderText = "IDGroup"
-        Me.IDGroup.Name = "IDGroup"
-        Me.IDGroup.ReadOnly = True
-        Me.IDGroup.Visible = False
-        '
-        'IDParent
-        '
-        Me.IDParent.HeaderText = "IDParent"
-        Me.IDParent.Name = "IDParent"
-        Me.IDParent.ReadOnly = True
-        Me.IDParent.Visible = False
-        '
         'FormGroupLevel
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -409,12 +404,12 @@ Partial Class FormGroupLevel
     Public WithEvents PanelButton As Panel
 #Disable Warning BC40004 ' Member conflicts with member in the base type and should be declared 'Shadows'
 #Enable Warning BC40004 ' Member conflicts with member in the base type and should be declared 'Shadows'
-    Friend WithEvents ButtonRoleGroup As Button
     Friend WithEvents ButtonBack As Button
     Friend WithEvents ID As DataGridViewTextBoxColumn
     Friend WithEvents Group As DataGridViewTextBoxColumn
     Friend WithEvents Remark As DataGridViewTextBoxColumn
     Friend WithEvents ParentColumn As DataGridViewTextBoxColumn
+    Friend WithEvents RoleGroup As DataGridViewButtonColumn
     Friend WithEvents IDGroup As DataGridViewTextBoxColumn
     Friend WithEvents IDParent As DataGridViewTextBoxColumn
 End Class

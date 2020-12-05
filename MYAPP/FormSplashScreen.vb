@@ -11,7 +11,9 @@ Public Class FormSplashScreen
 
     Sub SetConfig()
         StrConnectionDB = "Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""" & AppPath & "\MYAPP.mdf"";Integrated Security=True;Connect Timeout=30"
+        'StrConnectionDB = "Data Source=SQLEXPRESS;Initial Catalog=MYAPP;User ID=sa;Password=123"
         UploadLocation = "\\10.80.1.3\d_sharing\Jay\file_attach\"
+
         ServerTcpAddressForChat = "localhost"
         ServerTcpPortForChat = 9797
     End Sub

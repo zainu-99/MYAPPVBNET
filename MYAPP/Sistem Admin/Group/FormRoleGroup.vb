@@ -4,17 +4,9 @@
         FormMain.TabControlForm.Controls.RemoveByKey(Me.Name)
     End Sub
 
-    Private Sub ButtonRefresh_Click(sender As Object, e As EventArgs) Handles ButtonRefresh.Click
-        Reload()
-    End Sub
-
-    Private Sub FormRoleGroup_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Reload()
-    End Sub
-
     Public Sub showDataGridView(ByVal txtSearch As String)
         Dim query As String = "
-select a.id,a.name,a.remark,isView,isAdd,isEdit,isDelete,isPrint,isCustom,AccessView,AccessAdd,AccessEdit,AccessDelete,AccessPrint,AccessCustom from Roles a left join RoleGroupLevel b on a.id =b.id_role where b.id_group_level=" & ComboBoxGroupLevel.SelectedValue & " and name like '%" & txtSearch & "%' or remark like '%" & txtSearch & "%' order by a.remark,a.name"
+select a.id,a.name,a.remark,isView,isAdd,isEdit,isDelete,isPrint,isCustom,AccessView,AccessAdd,AccessEdit,AccessDelete,AccessPrint,AccessCustom from Roles a left join (select * from  RoleGroupLevel where id_group_level=" + TextBoxGroupLevel.Tag.ToString() + ") b on a.id =b.id_role where name like '%" & txtSearch & "%' or remark like '%" & txtSearch & "%' order by a.remark,a.name"
         dgv.AllowUserToAddRows = False
         dgv.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells
         Table = getDataTable(query)
@@ -35,29 +27,12 @@ select a.id,a.name,a.remark,isView,isAdd,isEdit,isDelete,isPrint,isCustom,Access
     End Sub
 
     Sub Reload()
-        ShowGroupLevel()
         dgv.Rows.Clear()
         TextBoxSearch.Clear()
         showDataGridView("")
     End Sub
 
-    Sub ShowGroupLevel()
-        Dim query As String = "select a.id,concat(b.name,' - ',a.remark) as info from GroupLevel as a left join Groups as b on b.id = a.id_group left join GroupLevel c on c.id = a.id_parent"
-        ComboBoxGroupLevel.DataSource = getDataTable(query)
-        ComboBoxGroupLevel.ValueMember = "id"
-        ComboBoxGroupLevel.DisplayMember = "info"
-    End Sub
-
-
-    Private Sub ComboBoxRole_SelectedValueChanged(sender As Object, e As EventArgs) Handles ComboBoxGroupLevel.SelectedValueChanged
-        If Table IsNot Nothing Then
-            dgv.Rows.Clear()
-            TextBoxSearch.Clear()
-            showDataGridView("")
-        End If
-    End Sub
-
-    Private Sub ComboBoxGroupLevel_KeyPress(sender As Object, e As KeyPressEventArgs) Handles ComboBoxGroupLevel.KeyPress
+    Private Sub ComboBoxGroupLevel_KeyPress(sender As Object, e As KeyPressEventArgs)
         e.Handled = True
     End Sub
 
@@ -97,12 +72,21 @@ select a.id,a.name,a.remark,isView,isAdd,isEdit,isDelete,isPrint,isCustom,Access
 
     Private Sub dgv_CellEndEdit(sender As Object, e As DataGridViewCellEventArgs) Handles dgv.CellEndEdit
         With dgv.Rows(e.RowIndex)
-            Dim Exist As Boolean = getDataTable("select count(id) from RoleGroupLevel where id_group_level = " & ComboBoxGroupLevel.SelectedValue & " and id_role = " & .Cells("ID").Value).Rows(0).Item(0) > 0
+            Dim Exist As Boolean = getDataTable("select count(id) from RoleGroupLevel where id_group_level = " & TextBoxGroupLevel.Tag & " and id_role = " & .Cells("ID").Value).Rows(0).Item(0) > 0
             If Exist Then
-                ExecuteQuery("update RoleGroupLevel set [isView] = '" & .Cells("IsView").Value & "' ,[isAdd] = '" & .Cells("isAdd").Value & "',[isEdit] = '" & .Cells("isEdit").Value & "',[isDelete] = '" & .Cells("isDelete").Value & "',[isPrint] = '" & .Cells("isPrint").Value & "',[isCustom] = '" & .Cells("isCustom").Value & "' where id_group_level = '" & ComboBoxGroupLevel.SelectedValue & "' and id_role = '" & .Cells("ID").Value & "'")
+                ExecuteQuery("update RoleGroupLevel set [isView] = '" & .Cells("IsView").Value & "' ,[isAdd] = '" & .Cells("isAdd").Value & "',[isEdit] = '" & .Cells("isEdit").Value & "',[isDelete] = '" & .Cells("isDelete").Value & "',[isPrint] = '" & .Cells("isPrint").Value & "',[isCustom] = '" & .Cells("isCustom").Value & "' where id_group_level = '" & TextBoxGroupLevel.Tag & "' and id_role = '" & .Cells("ID").Value & "'")
             Else
-                ExecuteQuery("insert into RoleGroupLevel (id_group_level,id_role,[isView],[isAdd],[isEdit],[isDelete],[isPrint],[isCustom]) values('" & ComboBoxGroupLevel.SelectedValue & "','" & .Cells("ID").Value & "','" & .Cells("IsView").Value & "','" & .Cells("IsView").Value & "','" & .Cells("IsAdd").Value & "','" & .Cells("IsEdit").Value & "','" & .Cells("IsDelete").Value & "','" & .Cells("IsCustom").Value & "')")
+                ExecuteQuery("insert into RoleGroupLevel (id_group_level,id_role,[isView],[isAdd],[isEdit],[isDelete],[isPrint],[isCustom]) values('" & TextBoxGroupLevel.Tag & "','" & .Cells("ID").Value & "','" & .Cells("IsView").Value & "','" & .Cells("IsView").Value & "','" & .Cells("IsAdd").Value & "','" & .Cells("IsEdit").Value & "','" & .Cells("IsDelete").Value & "','" & .Cells("IsCustom").Value & "')")
             End If
         End With
     End Sub
+
+    Private Sub TextBoxGroupLevel_TextChanged(sender As Object, e As EventArgs) Handles TextBoxGroupLevel.TextChanged
+        dgv.Rows.Clear()
+    End Sub
+
+    Private Sub ButtonRefresh_Click(sender As Object, e As EventArgs) Handles ButtonRefresh.Click
+        Reload()
+    End Sub
+
 End Class

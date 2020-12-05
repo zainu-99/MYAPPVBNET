@@ -1,5 +1,6 @@
 ﻿Public Class FormGroupLevel
     Dim id_group_level = -1
+    Dim dt As New DataTable
     Private Sub ButtonBack_Click(sender As Object, e As EventArgs) Handles ButtonBack.Click
         FormMain.TabControlForm.Controls.RemoveByKey(Me.Name)
     End Sub
@@ -23,10 +24,10 @@
 
 
     Sub Reload()
+        ctr = 0
         ShowGroup()
         ShowGroupLevel()
         GroupBoxInputData.Enabled = False
-        ButtonRoleGroup.Enabled = False
         showDataGridView("")
         TextBoxRemark.Text = ""
         ButtonEdit.Enabled = False
@@ -35,13 +36,14 @@
     End Sub
     Public Sub showDataGridView(ByVal txtSearch As String)
         Dim query As String = "select a.id,b.name,a.remark,concat(d.name,' - ',c.remark) as parent,a.id_group,a.id_parent from GroupLevel as a left join Groups as b on b.id = a.id_group left join GroupLevel c on c.id = a.id_parent left join Groups as d on c.id_group=d.id where a.remark like '%" & txtSearch & "%' order by b.name"
-        Dim dt = getDataTable(query)
+        dt = getDataTable(query)
         dgv.Rows.Clear()
-        GetGroupLevel(dt, " is Null", "")
+        GetGroupLevel(dt, "id_parent is Null", "")
         dgv.AllowUserToAddRows = False
         dgv.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill
         With dgv
             .RowHeadersVisible = False
+            .Columns("RoleGroup").Width = 99
             '.Columns(0).Visible = False
             '.Columns(1).HeaderCell.Value = "Group"
             '.Columns(2).HeaderCell.Value = "remark"
@@ -56,17 +58,15 @@
         End With
     End Sub
 
-    Sub GetGroupLevel(DT As DataTable, idParent As String, ByVal levelTag As String)
-        For Each dtrow As DataRow In DT.Select("id_parent  " & idParent)
-            AddToDgv(dtrow, levelTag & "* ")
-            If DT.Select("id_parent = " & dtrow.Item(0)).Count > 0 Then
-                GetGroupLevel(DT, "= " & dtrow.Item(0), levelTag & "-----")
-            End If
+    Sub GetGroupLevel(DT As DataTable, filter As String, ByVal levelTag As String)
+        For Each dtrow As DataRow In DT.Select(filter)
+            AddToDgv(dtrow, levelTag & "➧ ")
+            GetGroupLevel(DT, "id_parent = " & dtrow.Item(0), levelTag & "        ")
         Next
     End Sub
 
     Sub AddToDgv(ByVal dr As DataRow, ByVal levelTag As String)
-        dgv.Rows.Add(dr.Item(0), levelTag & dr.Item(1), dr.Item(2), dr.Item(3), dr.Item(4), dr.Item(5))
+        dgv.Rows.Add(dr.Item(0), levelTag & dr.Item(1), dr.Item(2), dr.Item(3), "Set", dr.Item(4), dr.Item(5))
     End Sub
 
     Private Sub ButtonAdd_Click(sender As Object, e As EventArgs) Handles ButtonAdd.Click
@@ -76,7 +76,6 @@
         ButtonEdit.Enabled = False
         ButtonDelete.Enabled = False
         ButtonSave.Enabled = True
-        ButtonRoleGroup.Enabled = False
     End Sub
 
     Private Sub ButtonEdit_Click(sender As Object, e As EventArgs) Handles ButtonEdit.Click
@@ -107,16 +106,24 @@
         GroupBoxInputData.Enabled = False
         id_group_level = dgv.CurrentRow.Cells(0).Value
         TextBoxRemark.Text = dgv.CurrentRow.Cells(2).Value
-        ComboBoxGroup.SelectedValue = dgv.CurrentRow.Cells(4).Value
+        ComboBoxGroup.SelectedValue = dgv.CurrentRow.Cells(5).Value
         ShowGroupLevel()
-        ComboBoxParentGroup.SelectedValue = dgv.CurrentRow.Cells(5).Value
+        ComboBoxParentGroup.SelectedValue = dgv.CurrentRow.Cells(6).Value
         If ComboBoxParentGroup.Text = "" Then
             ComboBoxParentGroup.Text = "No Parent"
         End If
         ButtonEdit.Enabled = True
         ButtonDelete.Enabled = True
         ButtonSave.Enabled = True
-        ButtonRoleGroup.Enabled = True
+        If (e.ColumnIndex = dgv.Columns("RoleGroup").Index) Then
+            FormMain.fillFormToPanel(FormRoleGroup)
+            Dim form As FormRoleGroup = DirectCast(FormMain.GetFormInTabControl(FormRoleGroup.Name), FormRoleGroup)
+            If form IsNot Nothing Then
+                form.TextBoxGroupLevel.Tag = dgv.CurrentRow.Cells(0).Value
+                form.TextBoxGroupLevel.Text = dt.Rows(dgv.CurrentRow.Index).ItemArray(1)
+                form.TextBoxGroupLevel.Text += "-" & dgv.CurrentRow.Cells(2).Value
+            End If
+        End If
     End Sub
 
     Private Sub ButtonDelete_Click(sender As Object, e As EventArgs) Handles ButtonDelete.Click
@@ -137,19 +144,13 @@
         e.Handled = True
     End Sub
 
-    Private Sub ButtonRoleGroup_Click(sender As Object, e As EventArgs) Handles ButtonRoleGroup.Click
-        FormMain.fillFormToPanel(FormRoleGroup)
-        Dim form As FormRoleGroup = DirectCast(FormMain.GetFormInTabControl(FormRoleGroup.Name), FormRoleGroup)
-        If form IsNot Nothing Then form.ComboBoxGroupLevel.SelectedValue = dgv.CurrentRow.Cells(0).Value
-    End Sub
-
     Dim ctr = 0
     Private Sub TextBoxSearch_KeyPress(sender As Object, e As KeyPressEventArgs) Handles TextBoxSearch.KeyPress
         If e.KeyChar = Microsoft.VisualBasic.ChrW(Keys.Enter) Then
             For i = ctr To dgv.Rows.Count - 1 Step 1
                 With dgv.Rows(i)
                     ctr = i + 1
-                    If .Cells("Group").Value.ToString.ToLower Like "*" & TextBoxSearch.Text.ToLower & "*" Or .Cells("remark").Value.ToString.ToLower Like "*" & TextBoxSearch.Text.ToLower & "*" Or .Cells("Parent").Value.ToString.ToLower Like "*" & TextBoxSearch.Text.ToLower & "*" Then
+                    If .Cells("Group").Value.ToString.ToLower Like "*" & TextBoxSearch.Text.ToLower & "*" Or .Cells("remark").Value.ToString.ToLower Like "*" & TextBoxSearch.Text.ToLower & "*" Or .Cells("ParentColumn").Value.ToString.ToLower Like "*" & TextBoxSearch.Text.ToLower & "*" Then
                         dgv.Rows(i).Selected = True
                         dgv.FirstDisplayedScrollingRowIndex = i
                         Exit Sub
@@ -159,4 +160,5 @@
             ctr = 0
         End If
     End Sub
+
 End Class
