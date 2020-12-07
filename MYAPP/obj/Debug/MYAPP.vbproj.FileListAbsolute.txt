@@ -172,3 +172,7 @@ E:\Project\visual studio\MYAPPVBNET_\MYAPPVB\MYAPP\obj\Debug\MYAPPVB.FormUserRol
 E:\Project\visual studio\MYAPPVBNET_\MYAPPVB\MYAPP\obj\Debug\MYAPPVB.Resources.resources
 E:\Project\visual studio\MYAPPVBNET_\MYAPPVB\MYAPP\obj\Debug\MYAPPVB.FormTemplate.resources
 E:\Project\visual studio\MYAPPVBNET_\MYAPPVB\MYAPP\obj\Debug\MYAPP.vbproj.GenerateResource.Cache
+E:\Project\visual studio\MYAPPVBNET\MYAPP\bin\Debug\MYAPPVB.exe.config
+E:\Project\visual studio\MYAPPVBNET\MYAPP\obj\Debug\MYAPPVB.exe
+E:\Project\visual studio\MYAPPVBNET\MYAPP\obj\Debug\MYAPPVB.xml
+E:\Project\visual studio\MYAPPVBNET\MYAPP\obj\Debug\MYAPPVB.pdb
