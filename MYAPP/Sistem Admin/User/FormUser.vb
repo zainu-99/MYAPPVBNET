@@ -19,7 +19,7 @@ Public Class FormUser
         End If
     End Sub
     Public Sub showDataGridView()
-        Dim query As String = "select id,userid,name,nohp,email,address,status,gender,created_at,updated_at,password_noencrypt from users where name like '%" & TextBoxSearch.Text & "%' order by id desc OFFSET " & BindingSourcePaging.Position & " ROWS FETCH NEXT " & ComboBoxEntries.Text & " ROWS ONLY;"
+        Dim query As String = "select id,userid,name,nohp,email,address,status,gender,created_at,updated_at,password_noencrypt from users where name like '%" & TextBoxSearch.Text & "%' order by id desc OFFSET " & BindingSourcePaging.Position * CInt(ComboBoxEntries.Text) & " ROWS FETCH NEXT " & ComboBoxEntries.Text & " ROWS ONLY;"
         dgv.DataSource = getDataTable(query)
         dgv.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill
         With dgv
@@ -45,8 +45,6 @@ Public Class FormUser
 
     Sub ShowNavPageData()
         dgv.DataSource = Nothing
-
-
         Dim query As String = "select count(id) from Users where name like '%" & TextBoxSearch.Text & "%'"
         Dim datatabel = getDataTable(query)
         Dim dtable As New DataTable

@@ -30,7 +30,7 @@
         End If
     End Sub
     Public Sub showDataGridView()
-        Dim query As String = "select * from Roles where name like '%" & TextBoxSearch.Text & "%'  order by remark asc OFFSET " & BindingSourcePaging.Position & " ROWS FETCH NEXT " & ComboBoxEntries.Text & " ROWS ONLY;"
+        Dim query As String = "select * from Roles where name like '%" & TextBoxSearch.Text & "%'  order by remark asc OFFSET " & BindingSourcePaging.Position * CInt(ComboBoxEntries.Text) & " ROWS FETCH NEXT " & ComboBoxEntries.Text & " ROWS ONLY;"
         dgv.DataSource = getDataTable(query)
         dgv.AllowUserToAddRows = False
         dgv.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells

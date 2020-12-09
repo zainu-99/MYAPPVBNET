@@ -1,0 +1,18 @@
+12/8/2020 7:05:18 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+12/8/2020 7:05:19 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+12/8/2020 7:05:36 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormRole-Admin 
+12/8/2020 7:54:40 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+12/8/2020 7:54:40 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+12/8/2020 7:54:48 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormRole-Admin 
+12/8/2020 7:56:22 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+12/8/2020 7:56:22 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+12/8/2020 7:56:43 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormRole-Admin 
+12/8/2020 8:20:19 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+12/8/2020 8:20:19 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+12/8/2020 8:20:27 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormRole-Admin 
+12/8/2020 8:57:34 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+12/8/2020 8:57:34 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+12/8/2020 8:57:43 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMenuApp-Admin 
+12/8/2020 9:00:37 PM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+12/8/2020 9:00:37 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+12/8/2020 9:00:46 PM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMenuApp-Admin 

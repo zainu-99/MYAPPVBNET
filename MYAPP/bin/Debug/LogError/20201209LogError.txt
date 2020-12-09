@@ -1,0 +1,9 @@
+12/9/2020 7:33:47 AM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+12/9/2020 7:33:48 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+12/9/2020 7:34:04 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormUserGroup-Admin 
+12/9/2020 8:08:03 AM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+12/9/2020 8:08:04 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+12/9/2020 8:08:28 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormUserRole-Admin 
+12/9/2020 8:18:15 AM   No connection could be made because the target machine actively refused it 127.0.0.1:9797 - Annajiyah:192.168.56.1-FormMain-Admin 
+12/9/2020 8:18:15 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormMain-Admin 
+12/9/2020 8:18:33 AM   Object reference not set to an instance of an object. - Annajiyah:192.168.56.1-FormUserRole-Admin 
