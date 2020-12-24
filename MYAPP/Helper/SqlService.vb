@@ -98,6 +98,7 @@ Module SqlService
         Dim com = New SqlCommand(stringQuery, sqlcon)
         Try
             com.ExecuteNonQuery()
+            sqlcon.Close()
             Return New ExecuteQueryReturn()
         Catch ex As Exception
             LogError.Write(ex.Message)
@@ -105,9 +106,9 @@ Module SqlService
             Dim eqr As New ExecuteQueryReturn()
             eqr.success = False
             eqr.message = ex.Message
+            sqlcon.Close()
             Return eqr
         End Try
-        sqlcon.Close()
     End Function
     'fungsi dataReader
     Function getDataReader(ByVal stringQuery) As ModSqlRaeder
